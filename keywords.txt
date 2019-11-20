@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For PN5180_Updater
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+PN5180_Firmware KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+PN5180_Firmware KEYWOARD2
+PrintHex8 KEYWOARD2
+Begin KEYWOARD2
+End KEYWOARD2
+SecureCommandTransceive KEYWOARD2
+SecureDownloadTransceive KEYWOARD2
+ReadEEPROM KEYWOARD2
+GetFirmwareVersion KEYWOARD2
+GetDieID KEYWOARD2
+CheckIntegrity KEYWOARD2
+CheckSessionState KEYWOARD2
+DoUpdateFirmware KEYWOARD2
+DoSoftReset KEYWOARD2
+RawTransceive KEYWOARD2
+CalcCRC16 KEYWOARD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
